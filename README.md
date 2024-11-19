@@ -48,7 +48,7 @@
 ### 😄 Pronouns:
   - He/Him
   
-###⚡ Fun fact:  
+### ⚡ Fun fact:  
   I learned Python because I wanted to automate small tasks, but now I’m developing games and diving into data science! 🚀
 
 <!---
