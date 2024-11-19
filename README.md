@@ -9,14 +9,15 @@
      - Sharing knowledge through teaching and collaboration.
   
 - 🛠️ Technologies & Tools
-      **Programming Languages:** Python  
-      **Version Control:** Git  
-      **Data Analysis Tools:** Numpy, Pandas  
-      **Documentation:** Markdown
+      - **Programming Languages:** Python  
+      - **Version Control:** Git  
+      - **Data Analysis Tools:** Numpy, Pandas  
+      - **Documentation:** Markdown
        
 - 🌱 I’m currently learning:
       - **Data Science:** Expanding my knowledge with resources like:
-          - [W3Schools](https://www.w3schools.com/), Youtube videos from freeCodeCamp.org(https://youtu.be/GPVsHOlRBBI?si=rSUTmpV_rTKPskIp) and books like "How To Automate the Boring Stuff With Python."
+          - [W3Schools](https://www.w3schools.com/), Youtube videos from freeCodeCamp.org(https://youtu.be/GPVsHOlRBBI?si=rSUTmpV_rTKPskIp) and books like "How To Automate the Boring Stuff With 
+            Python."
       - **Topics Covered:** Numpy, Pandas  
       - **Next Goals:** Matplotlib, Seaborn, and Scikit-learn
   
