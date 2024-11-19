@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm @6illy999
-  -🎓 Aspiring Data Scientist | 🖥️ Python Enthusiast | 🎮 Game Developer in Progress  
-  -☕ Fueled by coffee, curiosity, and a passion for learning new skills!
+  🎓 Aspiring Data Scientist | 🖥️ Python Enthusiast | 🎮 Game Developer in Progress  
+  ☕ Fueled by coffee, curiosity, and a passion for learning new skills!
 
 ### 👀 I’m interested in:  
   - Building interactive Python-based projects.
