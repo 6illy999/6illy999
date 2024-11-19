@@ -41,15 +41,15 @@
   - Python-based projects.
   - Data visualization or analysis projects.
   - Beginner-friendly programming tutorials.
-        
-- 📫 How to reach me:
-    - **Email:** [billymwangi999@gmail.com](mailto:billymwangi999@gmail.com)
+
+### 📫 How to reach me:
+  - **Email:** [billymwangi999@gmail.com](mailto:billymwangi999@gmail.com)
   
-- 😄 Pronouns:
+### 😄 Pronouns:
   - He/Him
   
-- ⚡ Fun fact:
-  - I learned Python because I wanted to automate small tasks, but now I’m developing games and diving into data science! 🚀
+###⚡ Fun fact:  
+  I learned Python because I wanted to automate small tasks, but now I’m developing games and diving into data science! 🚀
 
 <!---
 6illy999/6illy999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
