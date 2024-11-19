@@ -33,9 +33,9 @@
   
 ### 📚 Learning Goals:  
   - 🚀 Gaining proficiency in:
-  - Python for Data Science
-  - Game development using Python
-  - Creating engaging online courses
+    - Python for Data Science
+    - Game development using Python
+    - Creating engaging online courses
   
 ### 💞️ I’m looking to collaborate on:
   - Python-based projects.
