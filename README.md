@@ -43,7 +43,7 @@
      - Beginner-friendly programming tutorials.
      - 
 - 📫 How to reach me:
-      **Email:** [billymwangi999@gmail.com](mailto:billymwangi999@gmail.com)
+- **Email:** [billymwangi999@gmail.com](mailto:billymwangi999@gmail.com)
   
 - 😄 Pronouns:
       -He/Him
