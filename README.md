@@ -14,7 +14,7 @@
     - Data Analysis Tools: Numpy, Pandas
     - Documentation: Markdown 
        
-- 🌱 I’m currently learning:
+  ### 🌱 I’m currently learning:
      - **Data Science:** Expanding my knowledge with resources like:
           - [W3Schools](https://www.w3schools.com/), [Youtube videos from freeCodeCamp.org](https://youtu.be/GPVsHOlRBBI?si=rSUTmpV_rTKPskIp) and books like "How To Automate the Boring Stuff With 
             Python."
