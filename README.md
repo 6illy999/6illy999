@@ -15,11 +15,11 @@
      - **Documentation:** Markdown 
        
 - 🌱 I’m currently learning:
-      - **Data Science:** Expanding my knowledge with resources like:
+     - **Data Science:** Expanding my knowledge with resources like:
           - [W3Schools](https://www.w3schools.com/), Youtube videos from freeCodeCamp.org(https://youtu.be/GPVsHOlRBBI?si=rSUTmpV_rTKPskIp) and books like "How To Automate the Boring Stuff With 
             Python."
-      - **Topics Covered:** Numpy, Pandas  
-      - **Next Goals:** Matplotlib, Seaborn, and Scikit-learn
+     - **Topics Covered:** Numpy, Pandas  
+     - **Next Goals:** Matplotlib, Seaborn, and Scikit-learn
   
 - 🌟 Featured Projects:
       [PIG GAME](https://github.com/6illy999/PIG_GAME)**  
