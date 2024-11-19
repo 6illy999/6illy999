@@ -32,10 +32,10 @@
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6illy999&layout=compact&theme=radical)]
   
   📚 Learning Goals:
-  🚀 Gaining proficiency in:  
-         - Python for Data Science  
-         - Game development using Python  
-         - Creating engaging online courses
+     🚀 Gaining proficiency in:
+        - Python for Data Science  
+        - Game development using Python  
+        - Creating engaging online courses
   
 - 💞️ I’m looking to collaborate on:
      - Python-based projects.
