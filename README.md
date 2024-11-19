@@ -28,8 +28,8 @@
       📚 A beginner-friendly Python learning platform designed for Udemy.
   
   📊 GitHub Stats:
-     ![6illy999's GitHub stats](https://github-readme-stats.vercel.app/api?username=6illy999&show_icons=true&theme=radical)  
-     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6illy999&layout=compact&theme=radical)]
+  ![6illy999's GitHub stats](https://github-readme-stats.vercel.app/api?username=6illy999&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6illy999&layout=compact&theme=radical)]
   
   📚 Learning Goals:
       🚀 Gaining proficiency in:  
