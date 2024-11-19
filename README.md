@@ -24,7 +24,7 @@
 ### 🌟 Featured Projects:  
   - [PIG GAME](https://github.com/6illy999/PIG_GAME)  
     🎲 A fun Python-based dice game with engaging mechanics for players.
-  - [Interactive Python Course](https://github.com/6illy999/PythonCourse)
+  - [Interactive Python Course](https://github.com/6illy999/PythonCourse)  
     📚 A beginner-friendly Python learning platform designed for Udemy.
   
   📊 GitHub Stats:
