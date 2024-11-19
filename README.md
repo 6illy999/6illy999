@@ -2,7 +2,7 @@
   -🎓 Aspiring Data Scientist | 🖥️ Python Enthusiast | 🎮 Game Developer in Progress  
   -☕ Fueled by coffee, curiosity, and a passion for learning new skills!
 
-- 👀 I’m interested in:
+### 👀 I’m interested in:
      - Building interactive Python-based projects.
      - Exploring data science and machine learning.
      - Creating fun and educational games.
