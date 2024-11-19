@@ -8,7 +8,7 @@
      - Creating fun and educational games.
      - Sharing knowledge through teaching and collaboration.
   
-- 🛠️ Technologies & Tools: 
+### 🛠️ Technologies & Tools: 
      - Programming Languages: Python 
      - **Version Control:** Git 
      - **Data Analysis Tools:** Numpy, Pandas 
