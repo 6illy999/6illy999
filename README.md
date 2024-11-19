@@ -31,16 +31,16 @@
   ![6illy999's GitHub stats](https://github-readme-stats.vercel.app/api?username=6illy999&show_icons=true&theme=radical)  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6illy999&layout=compact&theme=radical)]  
   
-📚 Learning Goals:
-    - 🚀 Gaining proficiency in:
-      - Python for Data Science
-      - Game development using Python
-      - Creating engaging online courses
+### 📚 Learning Goals:  
+  - 🚀 Gaining proficiency in:
+  - Python for Data Science
+  - Game development using Python
+  - Creating engaging online courses
   
-- 💞️ I’m looking to collaborate on:
-     - Python-based projects.
-     - Data visualization or analysis projects.
-     - Beginner-friendly programming tutorials.
+### 💞️ I’m looking to collaborate on:
+  - Python-based projects.
+  - Data visualization or analysis projects.
+  - Beginner-friendly programming tutorials.
         
 - 📫 How to reach me:
     - **Email:** [billymwangi999@gmail.com](mailto:billymwangi999@gmail.com)
