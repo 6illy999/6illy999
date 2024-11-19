@@ -32,10 +32,10 @@
     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6illy999&layout=compact&theme=radical)]
   
   📚 Learning Goals:
-      🚀 Gaining proficiency in:
-     - Python for Data Science  
-     - Game development using Python  
-     - Creating engaging online courses
+    🚀 Gaining proficiency in:
+      - Python for Data Science
+      - Game development using Python
+      - Creating engaging online courses
   
 - 💞️ I’m looking to collaborate on:
      - Python-based projects.
@@ -49,7 +49,7 @@
   - He/Him
   
 - ⚡ Fun fact:
-    I learned Python because I wanted to automate small tasks, but now I’m developing games and diving into data science! 🚀
+  - I learned Python because I wanted to automate small tasks, but now I’m developing games and diving into data science! 🚀
 
 <!---
 6illy999/6illy999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
