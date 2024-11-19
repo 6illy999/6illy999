@@ -2,17 +2,17 @@
   -🎓 Aspiring Data Scientist | 🖥️ Python Enthusiast | 🎮 Game Developer in Progress  
   -☕ Fueled by coffee, curiosity, and a passion for learning new skills!
 
-### 👀 I’m interested in:
-    - Building interactive Python-based projects.
-    - Exploring data science and machine learning.
-    - Creating fun and educational games.
-    - Sharing knowledge through teaching and collaboration.
+### 👀 I’m interested in:  
+  - Building interactive Python-based projects.
+  - Exploring data science and machine learning.
+  - Creating fun and educational games.
+  - Sharing knowledge through teaching and collaboration.  
   
-  ### 🛠️ Technologies & Tools: 
-    - Programming Languages: Python
-    - Version Control: Git
-    - Data Analysis Tools: Numpy, Pandas
-    - Documentation: Markdown 
+### 🛠️ Technologies & Tools:  
+  - Programming Languages: Python
+  - Version Control: Git
+  - Data Analysis Tools: Numpy, Pandas
+  - Documentation: Markdown 
        
   ### 🌱 I’m currently learning:
      - **Data Science:** Expanding my knowledge with resources like:
