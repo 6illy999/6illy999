@@ -9,10 +9,10 @@
      - Sharing knowledge through teaching and collaboration.
   
 - 🛠️ Technologies & Tools: 
-      - Programming Languages: Python 
-      - **Version Control:** Git 
-      - **Data Analysis Tools:** Numpy, Pandas 
-      - **Documentation:** Markdown 
+     - Programming Languages: Python 
+     - **Version Control:** Git 
+     - **Data Analysis Tools:** Numpy, Pandas 
+     - **Documentation:** Markdown 
        
 - 🌱 I’m currently learning:
       - **Data Science:** Expanding my knowledge with resources like:
